@@ -1,0 +1,392 @@
+.tab-bang-gia {
+	position: relative;
+	text-align: center;
+	margin-top: 22px;
+}
+
+.tab-bang-gia .tab-website {
+	display: inline-block;
+	padding: 14px;
+	background: #0069A3;
+	border-radius: 2px;
+	width: 278px;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #FFF;
+	cursor: pointer;
+}
+
+.tab-bang-gia .tab-chucnang {
+	display: inline-block;
+	padding: 14px;
+	background: #0069A3;
+	border-radius: 2px;
+	width: 278px;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #FFF;
+	cursor: pointer;
+}
+
+.tab-bang-gia .tab-tenmien,.tab-bang-gia .tab-thanhtoan {
+	display: inline-block;
+	padding: 14px;
+	background: #0069A3;
+	border-radius: 2px;
+	width: 278px;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #FFF;
+	cursor: pointer;
+}
+
+.tab-bang-gia a:hover {
+	background: red;
+}
+
+.bg-banggiaws {
+	border: 0px solid #0071AF;
+	background: #FFF;
+}
+
+/* pricing */
+.pricing {
+	position: relative;
+	margin-bottom: 15px;
+	padding: 1px;
+	border-radius: 4px;
+}
+
+.pricing-active {
+	margin-top: -21px;
+	background: #FF7A00;
+	box-shadow: 0 0 3px #C11;
+	border-radius: 4px;
+}
+
+.pricing-active li {
+	background: #fff !important;
+	color: #535353 !important
+}
+
+.pricing-active li.bg-r2 {
+	background: #FFA24D !important;
+}
+
+.pricing-active .pricing-head h3 {
+	background: #FF8B21;
+}
+
+.pricing-active .pricing-footer {
+	background: #FF8B21 !important;
+}
+
+.pricing-activea {
+	/* background: #FFD600; */
+	/* box-shadow: 0 0 3px #EE560F; */
+	padding: 1px;
+	border-radius: 4px;
+}
+
+.pricing-activea li {
+	background: #fff !important;
+	color: #686868 !important;
+}
+
+.pricing-activea li.bg-r2 {
+	background: #fde167 !important;
+}
+
+.pricing-activea .pricing-head h3 {
+	background: #fde167;
+	color: #686868 !important;
+}
+
+.pricing-activea .pricing-footer {
+	background: #FDD110 !important;
+}
+.ct {
+	font-size: 25px;
+}
+.ct1 {
+	color: #F00 !important;
+}
+.ct2 {
+	color: #FF0;
+}
+.pricing:hover {
+	box-shadow: 0 0 12px #c70000;
+	background: #c90000;
+	border-radius: 4px;
+}
+
+.no-hover {
+	box-shadow: 0 0 0px #3B8DDA !important;
+	background: #fff !important;
+}
+
+.pricing:hover h4 {
+	color: #E84D1C;
+}
+
+.pricing-head {
+	text-align: center;
+}
+
+.pricing-head h3,.pricing-head h4 {
+	margin: 0;
+	line-height: normal;
+}
+
+.pricing-head h3 span,.pricing-head h4 span {
+	display: block;
+	margin-top: 5px;
+	font-size: 14px;
+	font-style: italic;
+}
+
+.pricing-head h3 {
+	font-weight: 300;
+	color: #fff;
+	padding: 12px 0;
+	font-size: 16px;
+	background: #444444;
+	border-bottom: none;
+	position: relative;
+}
+
+.pricing-head h4 {
+	color: #bac39f;
+	padding: 5px 0;
+	font-size: 54px;
+	font-weight: 300;
+	background: #fbfef2;
+	border-bottom: solid 1px #f5f9e7;
+}
+
+.pricing-head-active h4 {
+	color: #E84D1C;
+}
+
+.pricing-head h4 i {
+	top: -8px;
+	font-size: 28px;
+	font-style: normal;
+	position: relative;
+}
+
+.pricing-head h4 span {
+	top: -10px;
+	font-size: 14px;
+	font-style: normal;
+	position: relative;
+}
+/* Pricing Content */
+.pricing-content li {
+	color: #666;
+	font-size: 13px;
+	padding: 8px 10px;
+	background: #F2F2F2;
+	font-weight: bold;
+	text-align: center;
+	height: 40px;
+}
+
+.no-padding {
+	padding: 0px !important;
+}
+
+.banggianvn .col-md-1 li {
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.bg-r2 {
+	background: #e2e2e2 !important;
+}
+
+.red-r2 {
+	color: #fb3434 !important;
+}
+
+.gray-r3 {
+	background: #f1f1f1 !important;
+}
+
+.myred-r2 {
+	color: #fb3434 !important;
+	font-size: 20px;
+}
+
+.mygr-r2 {
+	color: #05B227 !important;
+	font-size: 20px;
+}
+
+.pricing-content li i {
+	top: 2px;
+	color: #E84D1C;
+	font-size: 16px;
+	margin-right: 5px;
+	position: relative;
+}
+/* Pricing Footer */
+.pricing-footer {
+	color: #FFF;
+	font-size: 14px;
+	line-height: 24px;
+	text-align: center;
+	height: 80px;
+	text-transform: uppercase;
+	font-weight: bold;
+	background: #0069A3;
+	padding: 15px 20px;
+}
+
+.pricing-content {
+	margin: 0 !important;
+}
+
+.pricing-footer .btn {
+	color: #fff;
+}
+
+.pricing-footer .btn:hover {
+	color: #fafafa;
+}
+/* Priceing Active */
+.price-active,.pricing:hover {
+	z-index: 9;
+}
+
+.price-active h4 {
+	color: #36d7ac;
+}
+
+.no-space-pricing .pricing:hover {
+	transition: box-shadow 0.2s ease-in-out;
+}
+
+.no-space-pricing .price-active .pricing-head h4,.no-space-pricing .pricing:hover .pricing-head h4
+	{
+	color: #36d7ac;
+	padding: 15px 0;
+	font-size: 80px;
+	transition: color 0.5s ease-in-out;
+}
+
+.banggianvn .col-md-1 {
+	padding: 0;
+	width: 200px;
+}
+
+.banggianvn .col-md-3 {
+	padding: 0;
+	width: 300px;
+}
+
+.pricing-num {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	top: -27px;
+	left: 0;
+	right: 0;
+	margin: auto;
+	background: #c90000;
+	font-style: normal !important;
+	border-radius: 50%;
+	line-height: 27px;
+	font-size: 16px !important;
+	text-align: center;
+	border: 2px solid #FFF;
+	font-weight: bold;
+}
+
+.pricing-price {
+	margin-top: 2px !important;
+	padding: 0;
+	font-style: normal !important;
+	font-size: 14px !important;
+	font-weight: bold;
+}
+.name-r2 {
+	font-style: normal !important
+}
+.price_domain_title h2 {
+	background: #FFF;
+	left: 0;
+	right: 0;
+	margin: auto;
+	width: auto;
+	text-transform: uppercase;
+	color: #c90000;
+	margin-top: 60px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+.price_domain_title h1 {
+	background: #FFF;
+	left: 0;
+	right: 0;
+	margin: auto;
+	width: auto;
+	text-transform: uppercase;
+	color: #c90000;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: right;
+}
+.bg-banggiaws {
+	border: 0px solid #0071AF;
+
+	width: 984px;
+	padding: 44px 0;
+}
+.table-respon {
+	overflow: hidden;
+	width: 100%;
+	overflow-x: auto;
+}
+.xembg {
+	display: block;
+	text-align: center;
+	color: #F00;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.pricetable-button-container{
+	background: #fff;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+.pricetable-button-container a{
+	background-color: #C90000;
+    border-radius: 15px;
+	padding: 4px 20px;
+    display: inline-block;
+    color: #FFF;
+    font-family: arial;
+	font-size: 16px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.table-respon{
+	
+}
+#titile-serviceSoft{
+	font-size: 20px;
+	color: #c90000;
+	margin: 30px auto;
+}
+.bg-banggiaws .col-md-3{
+    width: 300px;
+    padding: 0px;
+    float: left;
+}
+.bg-banggiaws .col-md-1{
+    width: 171px;
+    padding: 0px;
+    float: left;
+}

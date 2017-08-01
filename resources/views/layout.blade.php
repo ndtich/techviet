@@ -11,12 +11,13 @@
     <meta content="" name="description" />
 
     <meta name="viewport" content="width=device-width,initial-scale=1"/>
-
+    <link href="css/index-detail.css" media="all" rel="stylesheet" type="text/css"/>
     <link href="css/index-total.css" media="all" rel="stylesheet" type="text/css" />
     <link href="css/index-home.css" media="all" rel="stylesheet" type="text/css" />
     <link href="css/index-section.css" media="all" rel="stylesheet" type="text/css" />
     
     <link href="css/index-price.css" media="all" rel="stylesheet" type="text/css" />
+    
     <script src="js/head-f0efac1d6976fdf77355672935951571.js" type="text/javascript"></script>
 </head>
 

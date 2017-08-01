@@ -45,6 +45,312 @@
 				</div>
 			</div>
 		</section>
+
+
+		<section class="page-section -color-white">
+    		<div class="grid-container">
+    			<div class="table-respon">
+    				<h1>Bảng giá Thiết kế website trọn gói giá chỉ từ 1.500.000đ</h1>
+					<div class="content-page bg-banggiaws">
+        
+						<div class=" margin-bottom-40">
+		
+							<div class="col-md-3 col-xs-3">
+								<div class="pricing no-hover">
+									<div class="pricing-head">
+										<h3>
+											<b>GÓI DỊCH VỤ</b>
+										</h3>
+									</div>
+									<ul style="text-align: left !important;" class="pricing-content list-unstyled">
+										<li style="text-align: left !important;" class="first">Giá dịch vụ</li>
+                       					<li class="bg-r2" style="background: #c90000 !important; color: #fff">THIẾT KẾ WEBSITE CHUYÊN NGHIỆP</li>
+                       					<li class="bg-r2" style="text-align: left !important;">01 Giao diện bất kỳ trên hệ thống</li>
+                       					<li style="text-align: left !important;">Cài đặt giao diện & điều chỉnh theo yêu cầu</li>
+                       					<li class="bg-r2" style="text-align: left !important;">Cung cấp bộ mã nguồn hoàn chỉnh</li>
+                       					<li style="text-align: left !important;">Thời gian sử dụng mã nguồn vĩnh viễn</li>
+                       					<li class="bg-r2" style="text-align: left !important;">Phiên bản Mobile</li>
+                       					<li style="text-align: left !important;">01 Domain (.com hoặc .net) 250.000đ/ năm</li>
+                       					<li class="bg-r2" style="text-align: left !important;">01 Hosting không giới hạn 6.000.000đ/ năm</li>
+                       					<li style="text-align: left !important;">01 Domain (.com.vn hoặc .vn) 850.000đ/ năm</li>
+                       					<li class="bg-r2" style="background: #c90000 !important; color: #fff">KÊNH BÁN HÀNG</li><li class="bg-r2" style="text-align: left !important;">Website bán hàng</li>
+                       					<li style="text-align: left !important;">Tích hợp vận chuyển</li>
+                       					<li class="bg-r2" style="text-align: left !important;">Form đặt hàng</li>
+                       					<li style="text-align: left !important;">Đăng ký thành viên</li>
+                       					<li class="bg-r2" style="text-align: left !important;">Quản lý kho hàng</li>
+                       					<li style="text-align: left !important;">Cấu hình khuyến mãi</li>
+                       					<li class="bg-r2" style="text-align: left !important;">Lịch sử mua hàng</li>
+                       					<li style="text-align: left !important;">Gian hàng trên Facebook</li>
+                       					<li class="bg-r2" style="text-align: left !important;">Bán buôn, Bán lẻ</li>
+                       					<li style="text-align: left !important;">Thanh toán trực tuyến</li>
+                       					<li class="bg-r2" style="text-align: left !important;">Chương trình khuyến mãi/ Coupon</li>
+                       					<li style="text-align: left !important;">Dung lượng không giới hạn</li>
+                       					<li class="bg-r2" style="text-align: left !important;">Băng thông không giới hạn</li>
+                       					<li style="text-align: left !important;">Sản phẩm không giới hạn</li>
+                       					<li class="bg-r2" style="background: #c90000 !important; color: #fff">MARKETING ONLINE</li>
+                       					<li class="bg-r2" style="text-align: left !important;">App email marketing</li>
+                       					<li style="text-align: left !important;">Tối ưu hệ thống tìm kiếm (SEO)</li>
+                       					<li class="bg-r2" style="text-align: left !important;">Tối ưu hệ thống tìm kiếm theo yêu cầu</li>
+                       					<li style="text-align: left !important;">Gói QC Google Adwords trị giá 3.000.000đ</li>
+                       					<li class="bg-r2" style="text-align: left !important;">Gói QC Facebook Ads trị giá 3.000.000đ</li>
+                       					<li style="text-align: left !important;">Khóa học Facebook Marketing Online</li>
+                       					<li class="bg-r2" style="text-align: left !important;">Tạo 01 Fanpage chuyên nghiệp</li>
+                       					<li style="text-align: left !important;">Xây dựng hệ thống Quảng cáo trực tuyến</li>
+                       					<li class="bg-r2" style="background: #c90000 !important; color: #fff">CÔNG CỤ TÍCH HỢP</li>
+                       					<li class="bg-r2" style="text-align: left !important;">Tích hợp Live Chat</li>
+                       					<li style="text-align: left !important;">Responsive</li>
+                       					<li class="bg-r2" style="text-align: left !important;">Bản đồ đường đi Gmap</li>
+                       					<li style="text-align: left !important;">Module thăm dò ý kiến</li>
+                       					<li class="bg-r2" style="text-align: left !important;">Thống kê truy cập (Analytics)</li>
+                       					<li style="text-align: left !important;">Kết nối Fanpage</li>
+                       					<li class="bg-r2" style="text-align: left !important;">App SMS marketing</li>
+                       					<li style="text-align: left !important;">Đa ngôn ngữ</li>
+					
+									</ul>
+									<div class="pricetable-button-container">
+									</div>
+								</div>
+							</div>
+				            <div class="col-md-1 col-xs-1">
+								<div class="pricing  hover-effect">
+									<div class="pricing-head">
+										<h3>
+											<span style="" class="pricing-num">1</span><span class="pricing-price">Basic</span>
+										</h3>
+									</div>
+									<ul class="pricing-content list-unstyled">
+										<li style="color: red !important; font-weight: 600; font-size: 18px; background: #f2f2f2 !important;" class="first"> 1,500,000 vnd </li>
+				                        <li style="background: #fff !important;">  </li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/unchecked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/unchecked.png"></li>
+				                        <li><img width="16" src="images/unchecked.png"></li>
+				                        <li style="background: #fff !important;">  </li>
+				                        <li class="bg-r2" ><img width="16" src="images/unchecked.png"></li>
+				                        <li><img width="16" src="images/unchecked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/unchecked.png"></li>
+				                        <li><img width="16" src="images/unchecked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/unchecked.png"></li>
+				                        <li><img width="16" src="images/unchecked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/unchecked.png"></li>
+				                        <li><img width="16" src="images/unchecked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/unchecked.png"></li>
+				                        <li><img width="16" src="images/unchecked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/unchecked.png"></li>
+				                        <li><img width="16" src="images/unchecked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/unchecked.png"></li>
+				                        <li><img width="16" src="images/unchecked.png"></li>
+				                        <li style="background: #fff !important;">  </li>
+				                        <li class="bg-r2" ><img width="16" src="images/unchecked.png"></li>
+				                        <li><img width="16" src="images/unchecked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/unchecked.png"></li>
+				                        <li><img width="16" src="images/unchecked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/unchecked.png"></li>
+				                        <li><img width="16" src="images/unchecked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/unchecked.png"></li>
+				                        <li><img width="16" src="images/unchecked.png"></li>
+				                        <li style="background: #fff !important;">  </li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/unchecked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/unchecked.png"></li>
+				                        <li><img width="16" src="images/unchecked.png"></li>
+										
+									</ul>
+									<div class="pricetable-button-container">
+										<a href="cart.html?add=1&id=19847">Đăng kí</a>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-1 col-xs-1">
+								<div class="pricing  hover-effect">
+									<div class="pricing-head">
+										<h3>
+										<span style="" class="pricing-num">2</span><span class="pricing-price">Pro</span>
+										</h3>
+									</div>
+									<ul class="pricing-content list-unstyled">
+										<li style="color: red !important; font-weight: 600; font-size: 18px; background: #f2f2f2 !important;" class="first"> 2,500,000 vnd </li>
+				                        <li style="background: #fff !important;">  </li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/unchecked.png"></li>
+				                        <li style="background: #fff !important;">  </li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li style="background: #fff !important;">  </li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/unchecked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/unchecked.png"></li>
+				                        <li><img width="16" src="images/unchecked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/unchecked.png"></li>
+				                        <li><img width="16" src="images/unchecked.png"></li>
+				                        <li style="background: #fff !important;">  </li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/unchecked.png"></li>
+				                        <li><img width="16" src="images/unchecked.png"></li>
+										
+									</ul>
+									<div class="pricetable-button-container">
+										<a href="cart.html?add=1&id=19848">Đăng kí</a>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-1 col-xs-1">
+								<div class="pricing pricing-activea hover-effect">
+									<div class="pricing-head">
+										<h3>
+										<span style="background: #FFAD00; color: #FFF;" class="pricing-num">3</span><span class="pricing-price">Tối ưu Business</span>
+										</h3>
+									</div>
+									<ul class="pricing-content list-unstyled">
+										<li style="color: red !important; font-weight: 600; font-size: 18px; background: #f2f2f2 !important;" class="first"> 4,900,000 vnd </li>
+				                        <li style="background: #fff !important;">  </li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/unchecked.png"></li>
+				                        <li style="background: #fff !important;">  </li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li style="background: #fff !important;">  </li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/unchecked.png"></li>
+				                        <li><img width="16" src="images/unchecked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/unchecked.png"></li>
+				                        <li><img width="16" src="images/unchecked.png"></li>
+				                        <li style="background: #fff !important;">  </li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/unchecked.png"></li>
+										
+									</ul>
+									<div class="pricetable-button-container">
+										<a href="cart.html?add=1&id=19849">Đăng kí</a>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-1 col-xs-1">
+								<div class="pricing  hover-effect">
+									<div class="pricing-head">
+										<h3>
+										<span style="" class="pricing-num">4</span><span class="pricing-price">ULTIMATE</span>
+										</h3>
+									</div>
+									<ul class="pricing-content list-unstyled">
+										<li style="color: red !important; font-weight: 600; font-size: 18px; background: #f2f2f2 !important;" class="first"> 9,900,000 vnd </li>
+				                        <li style="background: #fff !important;">  </li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li style="background: #fff !important;">  </li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li style="background: #fff !important;">  </li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li style="background: #fff !important;">  </li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+				                        <li class="bg-r2" ><img width="16" src="images/checked.png"></li>
+				                        <li><img width="16" src="images/checked.png"></li>
+										
+									</ul>
+									<div class="pricetable-button-container">
+										<a href="cart.html?add=1&id=19850">Đăng kí</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+
+
 		<section class="page-section -color-white">
 			<div class="grid-container">
 				<div class="home-section">

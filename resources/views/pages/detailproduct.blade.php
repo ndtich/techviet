@@ -80,138 +80,183 @@
 				<div class="js-item-description item-description" itemprop="description">
 					<div class="user-html">
         				<div class="user-html">
-        					<p><img src="https://d1a6a9r46cnyll.cloudfront.net/c5ac8bbf6b87a39082ccca87f192cde82979ca09/687474703a2f2f69746f62757a2e636f6d2f632f7468656d65666f726573742f696d616765732f656c697465617574686f722e6a7067"></p>
-        					<p><strong>Obsolute | Ghost Blog Theme</strong></p>  <p>Obsolute ghost blog theme is a creative, clean &amp; modern multi page and multipurpose template made for magazine, news stands, and personal blogs etc.Well written code, makes you comfortable to redesign the theme. Well documented help file helps you modify and edit this theme according to your own wish. </p>  <h3 id="item-description__installing-and-customizing-this-theme-is-very-easy-all-required-information-are"><strong>Installing and customizing this theme is very easy. All required information are provided in documentation.</strong></h3> <ul> <li>Responsive Layout</li> <li>Bootstrap 3.x</li> <li>Ready for Ghost latest version – 0.11.1</li> <li>Dedicated home page design</li> <li>Supports inbuilt navigation system</li> <li>Multi author support</li> <li>Widgetized sidebar</li> <li>Mailchimp subscription, recent post, tag cloud</li> <li>Re ordering or adding or removing widgets are very easy</li> <li>Easy featured image / youtube / vimeo / sound cloud</li> <li>All youtube / vimeo / soundcloud  are responsive</li> <li>Static pages</li> <li>Author page</li> <li>Custom error page</li> <li>Tag image, Tag Description, and Author cover Supported.</li> <li>Nice Code Highlighting</li> <li>Cross-Browser Compatibility Chrome, FireFox, Safari, IE9, IE10, IE11</li> <li>Comment with discus</li> <li>Font Awesome icons (retina ready)</li> <li>Well commented and well structured coding</li> <li>SCSS (CSS) file included</li> <li>Easy to customize</li> <li>HTML5 / CSS3 valid code</li> </ul>  <h3 id="item-description__credits"><strong>Credits</strong></h3>  <ul> <li>Fontawesome icon font</li> <li>Bootstrap 3.3.5</li> <li>Owl Carousel</li> <li>Fitvids</li> <li>Prism Js</li> <li>GhostHunter</li> <li>Preview Images form pexels.com, unsplash.com</li> </ul>  <h3 id="item-description__images-used-only-for-preview-purpose-images-are-not-included-in-main-download"><strong>Images Used only for preview purpose. Images are not included in main download</strong></h3>  <h3 id="item-description__support"><strong>Support </strong></h3> <p>For any help regarding this theme, please feel free to contact me through 0effortthemes.com/support/</p>  <p><strong>UPDATES</strong></p>  <pre>  Version 1.0.2 ( Date : 12.10.2016 ) 1. Latest version update 0.11.1 2. Documentation updated  </pre>
+        					<p>
+        						<img src="https://d1a6a9r46cnyll.cloudfront.net/c5ac8bbf6b87a39082ccca87f192cde82979ca09/687474703a2f2f69746f62757a2e636f6d2f632f7468656d65666f726573742f696d616765732f656c697465617574686f722e6a7067"></p>
+        					<p><strong>Obsolute | Ghost Blog Theme</strong></p>  
+        					<p>Obsolute ghost blog theme is a creative, clean &amp; modern multi page and multipurpose template made for magazine, news stands, and personal blogs etc.Well written code, makes you comfortable to redesign the theme. Well documented help file helps you modify and edit this theme according to your own wish. </p>  
+        					<h3 id="item-description__installing-and-customizing-this-theme-is-very-easy-all-required-information-are"><strong>Installing and customizing this theme is very easy. All required information are provided in documentation.</strong></h3> 
+        					<ul> 
+        						<li>Responsive Layout</li> 
+        						<li>Bootstrap 3.x</li> 
+        						<li>Ready for Ghost latest version – 0.11.1</li> 
+        						<li>Dedicated home page design</li> 
+        						<li>Supports inbuilt navigation system</li> 
+        						<li>Multi author support</li> 
+        						<li>Widgetized sidebar</li> 
+        						<li>Mailchimp subscription, recent post, tag cloud</li> 
+        						<li>Re ordering or adding or removing widgets are very easy</li> 
+        						<li>Easy featured image / youtube / vimeo / sound cloud</li> 
+        						<li>All youtube / vimeo / soundcloud  are responsive</li> 
+        						<li>Static pages</li> 
+        						<li>Author page</li> 
+        						<li>Custom error page</li> 
+        						<li>Tag image, Tag Description, and Author cover Supported.</li> 
+        						<li>Nice Code Highlighting</li> 
+        						<li>Cross-Browser Compatibility Chrome, FireFox, Safari, IE9, IE10, IE11</li> 
+        						<li>Comment with discus</li> 
+        						<li>Font Awesome icons (retina ready)</li> 
+        						<li>Well commented and well structured coding</li> 
+        						<li>SCSS (CSS) file included</li> 
+        						<li>Easy to customize</li> 
+        						<li>HTML5 / CSS3 valid code</li> 
+    						</ul>  
+    						<h3 id="item-description__credits"><strong>Credits</strong></h3>  
+    						<ul> 
+    							<li>Fontawesome icon font</li> 
+    							<li>Bootstrap 3.3.5</li> 
+    							<li>Owl Carousel</li> 
+    							<li>Fitvids</li> 
+    							<li>Prism Js</li> 
+    							<li>GhostHunter</li> 
+    							<li>Preview Images form pexels.com, unsplash.com</li> 
+							</ul>  
+							<h3 id="item-description__images-used-only-for-preview-purpose-images-are-not-included-in-main-download"><strong>Images Used only for preview purpose. Images are not included in main download</strong>
+							</h3>  
+							<h3 id="item-description__support"><strong>Support </strong>
+							</h3> 
+							<p>For any help regarding this theme, please feel free to contact me through 0effortthemes.com/support/</p>  
+							<p><strong>UPDATES</strong></p>  
+							<pre>  Version 1.0.2 ( Date : 12.10.2016 ) 1. Latest version update 0.11.1 2. Documentation updated  </pre>
         				</div>
-        </div>
-	</div>
+    				</div>
+				</div>
 
-</div>
-
-</div>
-<div class="sidebar-l sidebar-right">
-<div class="purchase-panel">
-	<div id="purchase-form" class="purchase-form">
-		<form accept-charset="UTF-8" action=""  method="post">
-			<div style="margin:0;padding:0;display:inline">
-			<input type="hidden" name="add_cart" value="1" />
 			</div>
-			<div itemprop="offers" itemscope >
-				
-				<div data-view="itemVariantSelector">
-					<div class="purchase-form__selection">
-						<span class="purchase-form__license-type">
-					
-					
-						</span>
-						<div class="js-purchase-heading purchase-form__price t-heading -size-xxl">
-							<b class="t-currency"><span class="js-purchase-price">&nbsp;480,000 ₫</span></b>
+
+		</div>
+		<div class="sidebar-l sidebar-right">
+			<div class="purchase-panel">
+				<div id="purchase-form" class="purchase-form">
+					<form accept-charset="UTF-8" action=""  method="post">
+						<div style="margin:0;padding:0;display:inline">
+							<input type="hidden" name="add_cart" value="1" />
 						</div>
-					</div>
+						<div itemprop="offers" itemscope >
+							
+							<div data-view="itemVariantSelector">
+								<div class="purchase-form__selection">
+									<span class="purchase-form__license-type">
+								
+								
+									</span>
+									<div class="js-purchase-heading purchase-form__price t-heading -size-xxl">
+										<b class="t-currency"><span class="js-purchase-price">&nbsp;480,000 ₫</span></b>
+									</div>
+								</div>
 				
 				
 					
-				</div>
-				<div class="purchase-form__button">
-					<button class="js-purchase__add-to-cart btn btn--size-l-slim btn--dimensions-full-width btn--color-green-3d">
-					<i class="e-icon -icon-cart -margin-right"></i><strong>Thêm vào giỏ hàng</strong>
-					</button>
-				</div>
+							</div>
+							<div class="purchase-form__button">
+								<button class="js-purchase__add-to-cart btn btn--size-l-slim btn--dimensions-full-width btn--color-green-3d">
+								<i class="e-icon -icon-cart -margin-right"></i><strong>Thêm vào giỏ hàng</strong>
+								</button>
+							</div>
 			
+						</div>
+					</form>
+				</div>
 			</div>
-		</form>
+
+			<style type="text/css">
+				.tuongtu img{
+					max-width: 100%;
+				}
+			</style>
+			<div class="box -radius-all">
+				<div class="rating-detailed--has-no-ratings">
+					<strong style="font-size: 20px;">Theme tương tự</strong> 
+
+					<ul class="tuongtu">
+						<li>
+							<a href="Brander-Premium-Responsive-Portfolio-HTML5-Theme-p8387.html">
+								<img width="318" src="https://image-tf.s3.envato.com/files/82505026/Preview/01-Preview.__large_preview.png" />
+								<br/>
+								<span>Brander - Premium Responsive Portfolio HTML5 Theme</span>
+							</a>
+						</li>
+						<li>
+							<a href="Stillidea-Travel-Tour-Multipurpose-WP-Theme-p354.html">
+								<img width="318" src="https://image-tf.s3.envato.com/files/152318821/01_preview1.__large_preview.jpg" />
+								<br/>
+								<span>Stillidea - Travel Tour Multipurpose WP Theme</span>
+							</a>
+						</li>
+						<li>
+							<a href="Remould--Construction-amp-Building-WordPress-Theme-p3871.html">
+								<img width="318" src="https://image-tf.s3.envato.com/files/156746915/remould-590x300.__large_preview.png" />
+								<br/>
+								<span>Remould | Construction &amp; Building WordPress Theme</span>
+							</a>
+						</li>
+						<li>
+							<a href="Squarecut-Responsive-Landing-Page-template-p14368.html">
+								<img width="318" src="https://image-tf.s3.envato.com/files/33514050/theme-preview/promo.__large_preview.jpg" />
+							<br/>
+							<span>Squarecut Responsive Landing Page template</span>
+						</a>
+						</li>
+						<li>
+							<a href="Minima-Responsive-One-Page-Template-p8454.html">
+								<img width="318" src="https://image-tf.s3.envato.com/files/98087215/preview.__large_preview.png" />
+								<br/>
+								<span>Minima - Responsive One Page Template</span>
+							</a>
+						</li>
+						<li>
+							<a href="Suko-Spa-Salon-Template-p13722.html">
+								<img width="318" src="https://image-tf.s3.envato.com/files/145484004/Theme%20preview.__large_preview.jpg" />
+								<br/>
+								<span>Suko - Spa Salon Template</span>
+							</a>
+						</li>
+						<li>
+							<a href="TATO-Portfolio-amp-Agency-WordPress-Theme-p1697.html">
+								<img width="318" src="https://image-tf.s3.envato.com/files/137737659/preview/01_Preview.__large_preview.jpg" />
+								<br/>
+								<span>TATO - Portfolio &amp; Agency WordPress Theme</span>
+							</a>
+						</li>
+						<li>
+							<a href="Nicasio-Creative-Muse-Template-p13414.html">
+								<img width="318" src="https://image-tf.s3.envato.com/files/129649286/Theme%20preview.__large_preview.jpg" />
+								<br/>
+								<span>Nicasio Creative Muse Template</span>
+							</a>
+						</li>
+						<li>
+							<a href="AppBox-App-Landing-PSD-Theme-p10741.html">
+								<img width="318" src="https://image-tf.s3.envato.com/files/126670507/00_preview.__large_preview.jpg" />
+								<br/>
+								<span>AppBox - App Landing PSD Theme</span>
+							</a>
+						</li>
+						<li>
+							<a href="Uno-Creative-Photography-Template-p7274.html">
+								<img width="318" src="https://image-tf.s3.envato.com/files/151294894/01_preview1.__large_preview.png" />
+								<br/>
+								<span>Uno - Creative Photography Template</span>
+							</a>
+						</li>
+
+					</ul>
+				</div>
+
+			</div>
+
+		</div>
+
 	</div>
-</div>
-
-<style type="text/css">
-.tuongtu img{
-max-width: 100%;
-}
-</style>
-<div class="box -radius-all">
-<div class="rating-detailed--has-no-ratings">
-<strong style="font-size: 20px;">Theme tương tự</strong> 
-
-<ul class="tuongtu">
-<li>
-<a href="Brander-Premium-Responsive-Portfolio-HTML5-Theme-p8387.html">
-<img width="318" src="https://image-tf.s3.envato.com/files/82505026/Preview/01-Preview.__large_preview.png" />
-<br/>
-<span>Brander - Premium Responsive Portfolio HTML5 Theme</span>
-</a>
-</li>
-<li>
-<a href="Stillidea-Travel-Tour-Multipurpose-WP-Theme-p354.html">
-<img width="318" src="https://image-tf.s3.envato.com/files/152318821/01_preview1.__large_preview.jpg" />
-<br/>
-<span>Stillidea - Travel Tour Multipurpose WP Theme</span>
-</a>
-</li>
-<li>
-<a href="Remould--Construction-amp-Building-WordPress-Theme-p3871.html">
-<img width="318" src="https://image-tf.s3.envato.com/files/156746915/remould-590x300.__large_preview.png" />
-<br/>
-<span>Remould | Construction &amp; Building WordPress Theme</span>
-</a>
-</li>
-<li>
-<a href="Squarecut-Responsive-Landing-Page-template-p14368.html">
-<img width="318" src="https://image-tf.s3.envato.com/files/33514050/theme-preview/promo.__large_preview.jpg" />
-<br/>
-<span>Squarecut Responsive Landing Page template</span>
-</a>
-</li>
-<li>
-<a href="Minima-Responsive-One-Page-Template-p8454.html">
-<img width="318" src="https://image-tf.s3.envato.com/files/98087215/preview.__large_preview.png" />
-<br/>
-<span>Minima - Responsive One Page Template</span>
-</a>
-</li>
-<li>
-<a href="Suko-Spa-Salon-Template-p13722.html">
-<img width="318" src="https://image-tf.s3.envato.com/files/145484004/Theme%20preview.__large_preview.jpg" />
-<br/>
-<span>Suko - Spa Salon Template</span>
-</a>
-</li>
-<li>
-<a href="TATO-Portfolio-amp-Agency-WordPress-Theme-p1697.html">
-<img width="318" src="https://image-tf.s3.envato.com/files/137737659/preview/01_Preview.__large_preview.jpg" />
-<br/>
-<span>TATO - Portfolio &amp; Agency WordPress Theme</span>
-</a>
-</li>
-<li>
-<a href="Nicasio-Creative-Muse-Template-p13414.html">
-<img width="318" src="https://image-tf.s3.envato.com/files/129649286/Theme%20preview.__large_preview.jpg" />
-<br/>
-<span>Nicasio Creative Muse Template</span>
-</a>
-</li>
-<li>
-<a href="AppBox-App-Landing-PSD-Theme-p10741.html">
-<img width="318" src="https://image-tf.s3.envato.com/files/126670507/00_preview.__large_preview.jpg" />
-<br/>
-<span>AppBox - App Landing PSD Theme</span>
-</a>
-</li>
-<li>
-<a href="Uno-Creative-Photography-Template-p7274.html">
-<img width="318" src="https://image-tf.s3.envato.com/files/151294894/01_preview1.__large_preview.png" />
-<br/>
-<span>Uno - Creative Photography Template</span>
-</a>
-</li>
-
-</ul>
-</div>
-
-</div>
-
-</div>
-
-</div>
 
 </div>
 
