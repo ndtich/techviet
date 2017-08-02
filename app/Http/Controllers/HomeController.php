@@ -2,12 +2,14 @@
 
 namespace App\Http\Controllers;
 
+
 use Illuminate\Http\Request;
 use App\CategoryParent;
 
-class HomeController extends Controller
+class HomeController extends RootController
 {
     //
+    
     function index()
     {
     	$category_parent = CategoryParent::all();
