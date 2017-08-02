@@ -15,3 +15,4 @@ Route::get('/', 'HomeController@index');
 Route::get('/home', 'HomeController@index');
 Route::get('/listproduct', 'ProductController@getListProduct');
 Route::get('/detailproduct', 'ProductController@getDetailProduct');
+Route::get('/preview', 'ProductController@getPreview');

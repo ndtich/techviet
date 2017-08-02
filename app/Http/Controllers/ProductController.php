@@ -16,4 +16,9 @@ class ProductController extends Controller
     {
     	return view('pages/detailproduct');
     }
+
+    function getPreview()
+    {
+    	return view('pages/preview');
+    }
 }

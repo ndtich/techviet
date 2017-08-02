@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateUsersTable extends Migration
+class TableCategoryChild extends Migration
 {
     /**
      * Run the migrations.
@@ -13,12 +13,13 @@ class CreateUsersTable extends Migration
      */
     public function up()
     {
-        Schema::create('users', function (Blueprint $table) {
+        Schema::create('category_child', function (Blueprint $table) {
             $table->increments('id');
+            $table->integer('id_category_parent')->unsigned();
+            $table->foreign('id_category_parent')->references('id')->on('category_parent');
             $table->string('name');
-            $table->string('email,255')->unique();
-            $table->string('password');
-            $table->rememberToken();
+            $table->string('alias');
+            $table->integer('order')->default(0);
             $table->timestamps();
         });
     }
@@ -30,6 +31,6 @@ class CreateUsersTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('users');
+        Schema::dropIfExists('category_child');
     }
 }
