@@ -1,4 +1,4 @@
-<footer class="site-footer">
+f<footer class="site-footer">
   <div class="site-footer__primary">
     <div class="footer-primary">
       <div class="grid-container">
@@ -7,7 +7,7 @@
 
           <div class="footer-top__left">
             <a class="footer-top__market-logo" href="./" style="background: none;text-indent: 0px;">
-              <img src="images/logo.png" style="height: auto;" />
+              <img src="{{url('images/logo.png')}}" style="height: auto;" />
             </a>
           </div>
 

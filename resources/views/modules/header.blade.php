@@ -28,8 +28,8 @@
       <div class="header-logo-account">
         <div class="grid-container">
           <div class="header-logo-account__container">
-            <a class="header-logo-account__logo" href="./">
-              <img src="images/logo.png" style="width: auto;padding:8px" />
+            <a class="header-logo-account__logo" href="{{url('/home.html')}}">
+              <img src="{{url('images/logo.png')}}" style="width: auto;padding:8px" />
             </a>
             <nav class="header-logo-account__right">
               <ul class="header-logo-account__sundry">
@@ -158,7 +158,7 @@
               <div class="header-categories__links-dropdown js-categories-all-files-dropdown">
                 <ul class="hub-header-dropdown">
                   @foreach($category_parent->categoryChild as $category_child)
-                  <li><a href="Admin-Templates-s31.html"> {{$category_child->name}}</a> </li>
+                  <li><a href="{{url('/listproduct/'.$category_child->id.'-'.$category_child->alias.'.html')}}"> {{$category_child->name}}</a> </li>
                   @endforeach
                 </ul>
               </div>

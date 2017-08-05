@@ -3,22 +3,26 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Product;
 
 class ProductController extends RootController
 {
     //
-    function getListProduct()
+    function getListProduct($id_categoryChild)
     {
-    	return view('pages/listproduct');
+    	$list = Product::where('id_category_child', $id_categoryChild)->get();
+    	return view('pages/listproduct',['data'=>$list]);
     }
 
-    function getDetailProduct()
+    function getDetailProduct($id)
     {
-    	return view('pages/detailproduct');
+    	$product = Product::where('id', $id)->first();
+    	return view('pages/detailproduct',['data'=>$product]);
     }
 
-    function getPreview()
+    function getPreview($id)
     {
-    	return view('pages/preview');
+    	$product = Product::where('id', $id)->first();
+    	return view('pages/preview',['data'=>$product]);
     }
 }

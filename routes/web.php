@@ -12,7 +12,7 @@
 */
 
 Route::get('/', 'HomeController@index');
-Route::get('/home', 'HomeController@index');
-Route::get('/listproduct', 'ProductController@getListProduct');
-Route::get('/detailproduct', 'ProductController@getDetailProduct');
-Route::get('/preview', 'ProductController@getPreview');
+Route::get('/home.html', 'HomeController@index');
+Route::get('/listproduct/{id_categoryChild}-{name_categoryChild}.html', 'ProductController@getListProduct');
+Route::get('/detailproduct/{id}-{alias}.html', 'ProductController@getDetailProduct');
+Route::get('/preview/{id}-{alias}.html', 'ProductController@getPreview');

@@ -3,13 +3,13 @@
 <html lang="en" class="no-js">
 <head>
 <meta charset="utf-8">
-<title>Preview Obsolute | Ghost Blog Theme</title>
+<title>Preview {{$data->name}}</title>
 
 <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1"/>
-<link href="css/index-home.css" media="all" rel="stylesheet" type="text/css"/>
-<link href="css/index-preview.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="{{ asset('css/index-home.css') }}" media="all" rel="stylesheet" type="text/css"/>
+<link href="{{ asset('css/index-preview.css') }}" media="all" rel="stylesheet" type="text/css"/>
 
-<script src="js/preview.js" type="text/javascript"></script>
+<script src="{{ asset('js/preview.js') }}" type="text/javascript"></script>
 <script>
       //function to fix height of iframe!
       var calcHeight = function() {
@@ -42,7 +42,7 @@
 		</div>
 	</div>
 </div>
-<iframe class="full-screen-preview__frame" src="http://www.urbanui.com/inspire/pages/index.html" name="preview-frame" frameborder="0" noresize="noresize" data-view="fullScreenPreview">
+<iframe class="full-screen-preview__frame" src="{{$data->link_preview}}" name="preview-frame" frameborder="0" noresize="noresize" data-view="fullScreenPreview">
 </iframe>
 
 
