@@ -17,6 +17,7 @@
     <link href="{{ asset('css/index-section.css') }}" media="all" rel="stylesheet" type="text/css" />
     
     <link href="{{ asset('css/index-price.css') }}" media="all" rel="stylesheet" type="text/css" />
+    <link href="{{ asset('css/index-cart.css') }}" media="all" rel="stylesheet" type="text/css" />
     
     <script src="{{ asset('js/head-f0efac1d6976fdf77355672935951571.js') }}" type="text/javascript"></script>
 </head>

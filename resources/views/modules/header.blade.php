@@ -125,10 +125,10 @@
                   </strong>
                 </div>
                 <div class="header-logo-account__user-nav-item">
-                    <a href="/cart.html" class="header-logo-account__user-nav-main-link--cart">
+                    <a href="{{url('/cart.html')}}" class="header-logo-account__user-nav-main-link--cart">
                         <div class="shopping-cart-summary " data-view="cartCount">
                             <i class="e-icon -icon-cart"></i>
-                            <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
+                            
                         </div>
                     </a>
                 </div>
@@ -154,7 +154,7 @@
           <ul class="header-categories__links">
             @foreach($category_parent_list as $category_parent)
             <li class="header-categories__links-item">
-              <a href="HTML-s28.html" class="header-categories__main-link" data-dropdown-target=".js-categories-all-files-dropdown" data-view="touchOnlyDropdown">{{$category_parent->name}}</a>
+              <a href="{{url('/listproductpa/'.$category_parent->id.'-'.$category_parent->alias.'.html')}}" class="header-categories__main-link" data-dropdown-target=".js-categories-all-files-dropdown" data-view="touchOnlyDropdown">{{$category_parent->name}}</a>
               <div class="header-categories__links-dropdown js-categories-all-files-dropdown">
                 <ul class="hub-header-dropdown">
                   @foreach($category_parent->categoryChild as $category_child)

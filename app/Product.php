@@ -12,6 +12,6 @@ class Product extends Model
     
 	public function categoryChild()
 	{
-		return $this->belongsTo('App\CategoryChild','id_category_categoryChild');
+		return $this->belongsTo('App\CategoryChild','id_category_child');
 	}
 }

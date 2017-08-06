@@ -3759,7 +3759,7 @@ pre {
 	content:"\f12d";
 	left:-1px
 }
-.pagination__list li span{
+.pagination__list .phantrang1{
      background: #eee none repeat scroll 0 0;
     border: 1px solid #e1e8ed;
     color: #444;
@@ -3769,6 +3769,34 @@ pre {
     padding: 5px 9px;
     border-radius:5px ;
 }
+
+/*Pagegination w3school*/
+.center {
+    text-align: center;
+}
+
+.pagination {
+    display: inline-block;
+}
+
+.pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+    border: 1px solid #ddd;
+    margin: 0 4px;
+}
+
+.pagination a.active {
+    background-color: #4CAF50;
+    color: white;
+    border: 1px solid #4CAF50;
+}
+
+.pagination a:hover:not(.active) {background-color: #ddd;}
+/*End Pagegination w3school*/
 
 .star-rating,.star-rating--large,.star-rating--review-widget,.star-rating--search {
 	display:inline-block;

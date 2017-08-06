@@ -3,12 +3,12 @@
         <ul>
         @foreach($category_parent_list as $category_parent)
           <li>
-            <a href="Thiet-Ke-Website-s146.html" class="off-canvas-category-link" data-dropdown-target="#section{{$category_parent->id}}" data-view="dropdown">
+            <a href="{{url('/listproductpa/'.$category_parent->id.'-'.$category_parent->alias.'.html')}}" class="off-canvas-category-link" data-dropdown-target="#section{{$category_parent->id}}" data-view="dropdown">
               {{$category_parent->name}}
             </a>
             <ul class="is-hidden" id="section{{$category_parent->id}}">
             @foreach($category_parent->categoryChild as $category_child)
-              <li><a href="My-pham-s130.html" class="off-canvas-category-link--sub">{{$category_child->name}}</a> </li>
+              <li><a href="{{url('/listproduct/'.$category_child->id.'-'.$category_child->alias.'.html')}}" class="off-canvas-category-link--sub">{{$category_child->name}}</a> </li>
             @endforeach
             </ul>     
           </li>

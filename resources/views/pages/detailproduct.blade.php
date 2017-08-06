@@ -7,8 +7,9 @@
 <div class="context-header ">
 	<div class="grid-container">
 		<nav class="breadcrumbs ">
-			<a href="/">Home</a>
-
+			<a href="{{url('/')}}">Home</a>
+			<a href="{{url('/listproductpa/'.$categoryParent->id.'-'.$categoryParent->alias.'.html')}}">{{$categoryParent->name}}</a>
+			<a href="{{url('/listproduct/'.$categoryChild->id.'-'.$categoryChild->alias.'.html')}}">{{$categoryChild->name}}</a>
 		</nav>
 		<div class="item-header" data-view="itemHeader">
 			<div class="item-header__title">
@@ -110,9 +111,9 @@
 					
 							</div>
 							<div class="purchase-form__button">
-								<button class="js-purchase__add-to-cart btn btn--size-l-slim btn--dimensions-full-width btn--color-green-3d">
-								<i class="e-icon -icon-cart -margin-right"></i><strong>Thêm vào giỏ hàng</strong>
-								</button>
+								<a href="{{ url('addcart/'.$data->id.'-'.$data->alias.'.html') }}" class="js-purchase__add-to-cart btn btn--size-l-slim btn--dimensions-full-width btn--color-green-3d">
+									<i class="e-icon -icon-cart -margin-right"></i><strong>Thêm vào giỏ hàng</strong>
+								</a>
 							</div>
 			
 						</div>
@@ -130,76 +131,15 @@
 					<strong style="font-size: 20px;">Theme tương tự</strong> 
 
 					<ul class="tuongtu">
+						@foreach($productRelative as $row)
 						<li>
-							<a href="Brander-Premium-Responsive-Portfolio-HTML5-Theme-p8387.html">
-								<img width="318" src="https://image-tf.s3.envato.com/files/82505026/Preview/01-Preview.__large_preview.png" />
+							<a href="{{url('/detailproduct/'.$row->id.'-'.$row->alias.'.html')}}">
+								<img width="318" src="{{url('images/product/'.$row->image)}}" />
 								<br/>
-								<span>Brander - Premium Responsive Portfolio HTML5 Theme</span>
+								<span>{{$row->name}}</span>
 							</a>
 						</li>
-						<li>
-							<a href="Stillidea-Travel-Tour-Multipurpose-WP-Theme-p354.html">
-								<img width="318" src="https://image-tf.s3.envato.com/files/152318821/01_preview1.__large_preview.jpg" />
-								<br/>
-								<span>Stillidea - Travel Tour Multipurpose WP Theme</span>
-							</a>
-						</li>
-						<li>
-							<a href="Remould--Construction-amp-Building-WordPress-Theme-p3871.html">
-								<img width="318" src="https://image-tf.s3.envato.com/files/156746915/remould-590x300.__large_preview.png" />
-								<br/>
-								<span>Remould | Construction &amp; Building WordPress Theme</span>
-							</a>
-						</li>
-						<li>
-							<a href="Squarecut-Responsive-Landing-Page-template-p14368.html">
-								<img width="318" src="https://image-tf.s3.envato.com/files/33514050/theme-preview/promo.__large_preview.jpg" />
-							<br/>
-							<span>Squarecut Responsive Landing Page template</span>
-						</a>
-						</li>
-						<li>
-							<a href="Minima-Responsive-One-Page-Template-p8454.html">
-								<img width="318" src="https://image-tf.s3.envato.com/files/98087215/preview.__large_preview.png" />
-								<br/>
-								<span>Minima - Responsive One Page Template</span>
-							</a>
-						</li>
-						<li>
-							<a href="Suko-Spa-Salon-Template-p13722.html">
-								<img width="318" src="https://image-tf.s3.envato.com/files/145484004/Theme%20preview.__large_preview.jpg" />
-								<br/>
-								<span>Suko - Spa Salon Template</span>
-							</a>
-						</li>
-						<li>
-							<a href="TATO-Portfolio-amp-Agency-WordPress-Theme-p1697.html">
-								<img width="318" src="https://image-tf.s3.envato.com/files/137737659/preview/01_Preview.__large_preview.jpg" />
-								<br/>
-								<span>TATO - Portfolio &amp; Agency WordPress Theme</span>
-							</a>
-						</li>
-						<li>
-							<a href="Nicasio-Creative-Muse-Template-p13414.html">
-								<img width="318" src="https://image-tf.s3.envato.com/files/129649286/Theme%20preview.__large_preview.jpg" />
-								<br/>
-								<span>Nicasio Creative Muse Template</span>
-							</a>
-						</li>
-						<li>
-							<a href="AppBox-App-Landing-PSD-Theme-p10741.html">
-								<img width="318" src="https://image-tf.s3.envato.com/files/126670507/00_preview.__large_preview.jpg" />
-								<br/>
-								<span>AppBox - App Landing PSD Theme</span>
-							</a>
-						</li>
-						<li>
-							<a href="Uno-Creative-Photography-Template-p7274.html">
-								<img width="318" src="https://image-tf.s3.envato.com/files/151294894/01_preview1.__large_preview.png" />
-								<br/>
-								<span>Uno - Creative Photography Template</span>
-							</a>
-						</li>
+						@endforeach
 
 					</ul>
 				</div>

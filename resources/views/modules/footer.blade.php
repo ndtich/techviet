@@ -1,4 +1,4 @@
-f<footer class="site-footer">
+<footer class="site-footer">
   <div class="site-footer__primary">
     <div class="footer-primary">
       <div class="grid-container">

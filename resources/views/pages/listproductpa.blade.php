@@ -15,7 +15,7 @@
     </div>
 
     <div class="search-header__results-count">
-      <h1>Chúng tôi có: {{$count}} mẫu {{$categoryChild->name}}</h1>
+      <h1>Chúng tôi có: {{$count}} mẫu {{$categoryParent->name}}</h1>
     </div>
 
   </div>
